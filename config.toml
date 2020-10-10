@@ -71,10 +71,15 @@ pygmentscodefencesguesssyntax = true
     url = "https://twitter.com/h12guerrero/"
 
 [[params.social]]
-    name = "Medium"
+    name = "Instagram"
     icon = "fa fa-instagram"
     weight = 4
     url = "https://instagram.com/h12guerrero"
+[[params.social]]
+    name = "Email"
+    icon = "fa fa-envelope"
+    weight = 4
+    url = "mailto:hello@hguerrero.tech"
 
 [languages]
     [languages.en]
