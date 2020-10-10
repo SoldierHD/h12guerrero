@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HG</title>
+    <link>http://127.0.0.1:1313/es-sv/</link>
+    <description>Recent content on HG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="http://127.0.0.1:1313/es-sv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>http://127.0.0.1:1313/es-sv/blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://127.0.0.1:1313/es-sv/blog/</guid>
+      <description>En construcción </description>
+    </item>
+    
+    <item>
+      <title>Contato</title>
+      <link>http://127.0.0.1:1313/es-sv/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://127.0.0.1:1313/es-sv/contact/</guid>
+      <description>Me siga em @joaoninguem.</description>
+    </item>
+    
+    <item>
+      <title>Proyectos</title>
+      <link>http://127.0.0.1:1313/es-sv/proyectos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://127.0.0.1:1313/es-sv/proyectos/</guid>
+      <description>En construcción </description>
+    </item>
+    
+    <item>
+      <title>Sobre me</title>
+      <link>http://127.0.0.1:1313/es-sv/acerca/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://127.0.0.1:1313/es-sv/acerca/</guid>
+      <description>En construcción </description>
+    </item>
+    
+  </channel>
+</rss>

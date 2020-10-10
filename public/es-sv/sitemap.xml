@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://127.0.0.1:1313/es-sv/blog/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://127.0.0.1:1313/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-sv"
+                href="http://127.0.0.1:1313/es-sv/blog/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:1313/es-sv/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://127.0.0.1:1313/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-sv"
+                href="http://127.0.0.1:1313/es-sv/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:1313/es-sv/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://127.0.0.1:1313/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-sv"
+                href="http://127.0.0.1:1313/es-sv/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:1313/es-sv/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://127.0.0.1:1313/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-sv"
+                href="http://127.0.0.1:1313/es-sv/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:1313/es-sv/proyectos/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://127.0.0.1:1313/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-sv"
+                href="http://127.0.0.1:1313/es-sv/proyectos/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:1313/es-sv/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://127.0.0.1:1313/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-sv"
+                href="http://127.0.0.1:1313/es-sv/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:1313/es-sv/acerca/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://127.0.0.1:1313/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-sv"
+                href="http://127.0.0.1:1313/es-sv/acerca/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:1313/es-sv/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://127.0.0.1:1313/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-sv"
+                href="http://127.0.0.1:1313/es-sv/tags/"
+                />
+  </url>
+  
+</urlset>
