@@ -10,6 +10,7 @@ pygmentsstyle = "b2"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
+googleAnalytics = "UA-180444235-1"
 
 [params]
     author = "Hector Guerrero"
